@@ -38,6 +38,7 @@ https://www.youtube.com/watch?v=P4BNi_yPehc
 A primeira sessão de hacking, onde  conhecemos as ferramentas e fluxo de trabalho, além de ideias de projetos pra contribuirmos foi sábado (dia 3) e está disponível em: https://www.twitch.tv/videos/759573572
 
 Sessões de hacking com professor @adorilson (https://www.twitch.tv/adorilson)
+
 2. data (??/??) - hora (??:??)
 2. data (??/??) - hora (??:??)
 2. data (??/??) - hora (??:??)
