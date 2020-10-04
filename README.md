@@ -13,6 +13,26 @@ Este é o repositório da participação do IFRN no Hacktoberfest
     git pull
     git push
 ```
+# Como começar
+
+1. Criar conta no github - https://github.com/
+1. Inscrição: https://hacktoberfest.digitalocean.com/
+1 Leitura importante de toda essa página
+1. Ver os links importante abaixo
+1. Escolher um projeto para contribuir 
+1.1 Quando descobrir um projeto legal, compartilhe aqui no grupo!
+1 Fazer a contribuição
+1.1 Quando fizer uma contribução, diga aqui no grupo!
+1. Sempre deixe sua participação atualizada em:
+1.1 https://github.com/pbaesse/hacktoberfest-ifrn
+
+Links MUITO IMPORTANTES que devem ser vistos!
+O que é Sofware Livre:
+https://youtu.be/rriqkI9W65Q
+
+O que são Git e GitHub:
+https://www.youtube.com/watch?v=P4BNi_yPehc
+
 
 # Ideias
 1. https://github.com/pythonbrasil/wiki
