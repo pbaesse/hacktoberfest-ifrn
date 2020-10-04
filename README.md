@@ -33,6 +33,24 @@ https://youtu.be/rriqkI9W65Q
 O que são Git e GitHub:
 https://www.youtube.com/watch?v=P4BNi_yPehc
 
+## Agenda
+
+A primeira sessão de hacking, onde  conhecemos as ferramentas e fluxo de trabalho, além de ideias de projetos pra contribuirmos foi sábado (dia 3) e está disponível em:
+https://www.twitch.tv/videos/759573572
+
+Sessões de hacking com professor @adorilson (https://www.twitch.tv/adorilson):
+2 - data (??/??) - hora (??:??)
+3 - data (??/??) - hora (??:??)
+4 - data (??/??) - hora (??:??)
+
+Sessões de dúvidas (https://meet.jit.si/hackIFRN):
+@carols0 - data (??/??) - hora (??:??)
+@fecaridade - data (??/??) - hora (??:??)
+
+Sessões extras:
+Data (10/10) - hora (18:00): https://twitch.tv/pachicodes
+
+Em breve - vídeo ou live sobre como cuidar de plantas: http://yt.pbaesse.net
 
 # Ideias
 1. https://github.com/pythonbrasil/wiki
