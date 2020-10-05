@@ -75,6 +75,12 @@ Em breve - vídeo ou live sobre como cuidar de plantas: http://yt.pbaesse.net
 1. https://jtemporal.com/projetos-brasileiros-para-fazer-pull-requests-nesse-hacktoberfest-2020/ (Conjunto de projetos para contribuir)
 1. https://github.com/vinitshahdeo/Hacktoberfest2020 (Mais outro conjunto de projetos para contribuir)
 1. https://github.com/crweiner/hacktoberfest-swag-list (Outros brindes que podem ser ganhos fazendo PR em outubro)
+1. https://github.com/dandaramcsousa/grandes-testes-do-buzzfeed
+1. https://github.com/leticiadasilva/por-onde-comecar (Adicionar conteúdos de programação)
+1. https://github.com/topics/hacktoberfest (Encontrar repositórios para contribuir no hacktoberfest)
+1. https://github.com/trending?spoken_language_code=pt (Encontrar repositórios para contribuir no hacktoberfest em pt-br)
+1. https://github.com/colaboradados/colaboradados.github.io
+1. https://github.com/okfn-brasil/ (Contribuir com aplicação cívicas)
 
 ## Participantes
 Caso não tenha sua conta para participar do hacktoberfest, mencione:
