@@ -22,7 +22,11 @@ Este é o repositório da participação do IFRN no Hacktoberfest
 1. Escolher um projeto para contribuir 
 1.1 Quando descobrir um projeto legal, compartilhe aqui no grupo!
 1 Fazer a contribuição
-1.1 Quando fizer uma contribução, diga aqui no grupo!
+1.1 Quando fizer uma contribução, diga aqui no grupo! OBS: Os projetos para 
+contribuição devem ter o tópico "hacktoberfest", geralmente localizado ao 
+lado da tela do projeto e abaixo da descrição. Para a sua contribuição valer
+o mantedor do projeto precisar marcar a sua contribuição com a tag 
+"hacktoberfest-accepted" ou com um merge
 1. Sempre deixe sua participação atualizada em:
 1.1 https://github.com/pbaesse/hacktoberfest-ifrn
 
