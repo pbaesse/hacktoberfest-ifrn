@@ -106,8 +106,9 @@ Caso não tenha sua conta para participar do hacktoberfest, mencione:
 [Fulano Exemplo](https://github.com/exemplo) (conta nova)
 
 
-[pBaesse](https://github.com/pbaesse)
-[mariacarolinass](https://github.com/mariacarolinass)
+- [pBaesse](https://github.com/pbaesse)
+
+- [mariacarolinass](https://github.com/mariacarolinass)
 
 ## Alguns números
 
