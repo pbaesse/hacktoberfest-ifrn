@@ -5,14 +5,33 @@ Este é o repositório da participação do IFRN no Hacktoberfest
 1. Querer contribuir
 1. Querer aprender
 
-## Comandos Git úteis
+## Programas úteis
+
+### Como instalar o Git
+1. Windows 
+```https://msysgit.github.com```
+
+1. Linux
+```yum install git-core | apt-get install git```
+
+### Configurações gerais de Git
+```
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
+```
+
+### Comandos Git
 ```
     git clone
     git add
     git commit
+    git status
     git pull
     git push
 ```
+
+Confira mais sobre git: https://comandosgit.github.io/ 
+
 # Como começar
 
 1. Criar conta no github - https://github.com/
