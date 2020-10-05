@@ -88,6 +88,7 @@ Caso não tenha sua conta para participar do hacktoberfest, mencione:
 
 
 [pBaesse](https://github.com/pbaesse)
+[mariacarolinass](https://github.com/mariacarolinass)
 
 ## Alguns números
 
