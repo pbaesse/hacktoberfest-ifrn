@@ -5,24 +5,48 @@ Este é o repositório da participação do IFRN no Hacktoberfest
 1. Querer contribuir
 1. Querer aprender
 
-## Comandos Git úteis
+## Programas úteis
+
+### Como instalar o Git
+1. Windows 
+```https://msysgit.github.com```
+
+1. Linux
+```yum install git-core | apt-get install git```
+
+### Configurações gerais de Git
+```
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
+```
+
+### Comandos Git
 ```
     git clone
     git add
     git commit
+    git status
     git pull
     git push
 ```
+
+Confira mais sobre git: https://comandosgit.github.io/ 
+
 # Como começar
 
 1. Criar conta no github - https://github.com/
 1. Inscrição: https://hacktoberfest.digitalocean.com/
 1 Leitura importante de toda essa página
 1. Ver os links importante abaixo
+1. Entrar/convidar outras pessoas para o nosso grupo no Telegram - https://bit.ly/hackIFRN
 1. Escolher um projeto para contribuir 
 1.1 Quando descobrir um projeto legal, compartilhe aqui no grupo!
 1 Fazer a contribuição
-1.1 Quando fizer uma contribução, diga aqui no grupo!
+1.1 Quando fizer uma contribução, diga aqui no grupo! OBS: Os projetos para 
+contribuição devem ter o tópico "hacktoberfest", geralmente localizado ao 
+lado da tela do projeto e abaixo da descrição. Para a sua contribuição valer
+o mantedor do projeto precisar marcar a sua contribuição com a tag 
+"hacktoberfest-accepted" ou com um merge
 1. Sempre deixe sua participação atualizada em:
 1.1 https://github.com/pbaesse/hacktoberfest-ifrn
 
@@ -70,13 +94,21 @@ Em breve - vídeo ou live sobre como cuidar de plantas: http://yt.pbaesse.net
 1. https://jtemporal.com/projetos-brasileiros-para-fazer-pull-requests-nesse-hacktoberfest-2020/ (Conjunto de projetos para contribuir)
 1. https://github.com/vinitshahdeo/Hacktoberfest2020 (Mais outro conjunto de projetos para contribuir)
 1. https://github.com/crweiner/hacktoberfest-swag-list (Outros brindes que podem ser ganhos fazendo PR em outubro)
+1. https://github.com/dandaramcsousa/grandes-testes-do-buzzfeed
+1. https://github.com/leticiadasilva/por-onde-comecar (Adicionar conteúdos de programação)
+1. https://github.com/topics/hacktoberfest (Encontrar repositórios para contribuir no hacktoberfest)
+1. https://github.com/trending?spoken_language_code=pt (Encontrar repositórios para contribuir no hacktoberfest em pt-br)
+1. https://github.com/colaboradados/colaboradados.github.io
+1. https://github.com/okfn-brasil/ (Contribuir com aplicação cívicas)
 
 ## Participantes
 Caso não tenha sua conta para participar do hacktoberfest, mencione:
 [Fulano Exemplo](https://github.com/exemplo) (conta nova)
 
 
-[pBaesse](https://github.com/pbaesse)
+- [pBaesse](https://github.com/pbaesse)
+
+- [mariacarolinass](https://github.com/mariacarolinass)
 
 ## Alguns números
 
